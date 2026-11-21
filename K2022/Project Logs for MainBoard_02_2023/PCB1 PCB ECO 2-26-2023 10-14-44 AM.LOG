@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C11 Old Comment=10uF/16V  New Comment=10uF/16V
+Change Component Comment : Designator=C12 Old Comment=10uF/16V  New Comment=10uF/16V
+Change Component Comment : Designator=C9 Old Comment=330uF/35V  New Comment=330uF/35V
+Change Net Name : Old Net Name=NetC10_1 New Net Name=FEEDBACK
+Added Room: Name=Sheet1

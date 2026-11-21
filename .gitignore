@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Microsoft Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Altium Designer temp & history folders
+**/History/
+**/__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+
+# ROS 2 build artifacts (for Linux sync)
+build/
+install/
+log/
+
+# C/C++ & STM32 build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/

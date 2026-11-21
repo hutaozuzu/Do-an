@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=ADC0_Gain-1
+Removed Pin From Net: NetName=ADC1_IN14 Pin=ADC0_Gain-2
+Removed Pin From Net: NetName=ADC2_IN13 Pin=ADC1_Gain-2
+Removed Pin From Net: NetName=GND Pin=ADC1_Gain-3
+Removed Pin From Net: NetName=ADC1_IN14 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=ADC2_IN13 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=ADC0 Pin=U1-3
+Removed Pin From Net: NetName=ADC1 Pin=U1-5
+Removed Member From Class: ClassName=Sheet1 Member=ADC0_Gain
+Removed Member From Class: ClassName=Sheet1 Member=ADC1_Gain
+Removed Member From Class: ClassName=Sheet1 Member=C13
+Removed Member From Class: ClassName=Sheet1 Member=C14
+Added Component: Designator=ADC0(VR1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Component: Designator=ADC1(VR1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08055C182KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1374-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3n3"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08055C182KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1374-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3n3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ADC0-1
+Added Pin To Net: NetName=ADC0 Pin=ADC0-2
+Added Pin To Net: NetName=ADC1 Pin=ADC1-2
+Added Pin To Net: NetName=GND Pin=ADC1-3
+Added Pin To Net: NetName=ADC0 Pin=C?-1
+Added Pin To Net: NetName=ADC1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=ADC1_IN14 Pin=U1-1
+Added Pin To Net: NetName=ADC1_IN14 Pin=U1-2
+Added Pin To Net: NetName=ADC2_IN13 Pin=U1-6
+Added Pin To Net: NetName=ADC2_IN13 Pin=U1-7
+Added Pin To Net: NetName=NetADC0_3 Pin=ADC0-3
+Added Pin To Net: NetName=NetADC0_3 Pin=U1-3
+Added Net: Name=NetADC0_3
+Added Pin To Net: NetName=NetADC1_1 Pin=ADC1-1
+Added Pin To Net: NetName=NetADC1_1 Pin=U1-5
+Added Net: Name=NetADC1_1
+Added Member To Class: ClassName=Sheet1 Member=Component ADC0 10K
+Added Member To Class: ClassName=Sheet1 Member=Component ADC1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component C? approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C? approved sub OK
+Added Room: Name=Sheet1

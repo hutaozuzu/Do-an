@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=ENC_0 NewDesignator=JP3
+Change Component Designator: OldDesignator=ENC_1 NewDesignator=JP4
+Change Component Designator: OldDesignator=ENC_2 NewDesignator=JP6
+Change Component Designator: OldDesignator=PWM_0 NewDesignator=JP7
+Change Component Designator: OldDesignator=PWM_1 NewDesignator=JP9
+Change Component Designator: OldDesignator=PWM_2 NewDesignator=JP10
+Change Component Designator: OldDesignator=PWM_3 NewDesignator=JP13
+Added Component: Designator=TP1(TP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component TP1 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 TP
+Added Room: Name=Sheet1

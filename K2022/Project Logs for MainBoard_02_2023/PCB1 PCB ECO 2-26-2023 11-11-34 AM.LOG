@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=JP3 NewDesignator=ENC_0
+Change Component Designator: OldDesignator=JP4 NewDesignator=ENC_1
+Change Component Designator: OldDesignator=JP6 NewDesignator=ENC_2
+Added Room: Name=Sheet1

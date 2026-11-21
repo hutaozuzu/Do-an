@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=JP11 NewDesignator=GPIO_OUT
+Change Component Designator: OldDesignator=JP12 NewDesignator=GPIO_IN
+Added Member To Class: ClassName=Sheet1 Member=Component R_TERM Jumper 2
+Added Room: Name=Sheet1

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=JP9 Old Comment=JP4 New Comment=Front-Motor
+Change Component Comment : Designator=JP10 Old Comment=JP4 New Comment=Left-Motor
+Change Component Comment : Designator=JP13 Old Comment=JP4 New Comment=Right-Motor
+Change Component Comment : Designator=JP7 Old Comment=JP4 New Comment=SERVO
+Added Member To Class: ClassName=Sheet1 Member=Component JP20 connector
+Added Room: Name=Sheet1

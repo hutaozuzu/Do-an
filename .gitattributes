@@ -1,0 +1,34 @@
+# Chuẩn hóa line-ending giữa Linux và Windows
+* text=auto
+
+# Code & Script ROS 2 / Linux bắt buộc LF
+*.sh text eol=lf
+*.py text eol=lf
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+package.xml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.launch text eol=lf
+*.urdf text eol=lf
+*.xacro text eol=lf
+*.md text eol=lf
+
+# Windows batch / PowerShell
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files
+*.pdf binary
+*.docx binary
+*.PcbDoc binary
+*.SchDoc binary
+*.IntLib binary
+*.zip binary
+*.xls binary
+*.png binary
+*.jpg binary

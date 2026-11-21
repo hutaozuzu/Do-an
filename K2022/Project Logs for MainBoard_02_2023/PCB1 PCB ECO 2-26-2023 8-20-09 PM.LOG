@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R12 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R13 10k
+Added Room: Name=Sheet1

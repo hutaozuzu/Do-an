@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=CAN1_A
+Change Component Designator: OldDesignator=JP2 NewDesignator=CAN1_B
+Added Member To Class: ClassName=Sheet1 Member=Component R_TERM Jumper 2
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=SD1 NewDesignator=SW_IMU
+Change Component Designator: OldDesignator=SD2 NewDesignator=SW_RF
+Change Component Designator: OldDesignator=SD3 NewDesignator=SW_GPS
+Added Room: Name=Sheet1

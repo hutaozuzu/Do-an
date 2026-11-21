@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=JP15 NewDesignator=RF
+Change Component Designator: OldDesignator=JP16 NewDesignator=IMU
+Change Component Designator: OldDesignator=JP17 NewDesignator=GPS
+Change Component Designator: OldDesignator=JP18 NewDesignator=RF_RTK
+Change Component Designator: OldDesignator=JP21 NewDesignator=RF_PC
+Change Component Designator: OldDesignator=JP22 NewDesignator=IMU_PC
+Change Component Designator: OldDesignator=JP23 NewDesignator=GPS_PC
+Added Room: Name=Sheet1

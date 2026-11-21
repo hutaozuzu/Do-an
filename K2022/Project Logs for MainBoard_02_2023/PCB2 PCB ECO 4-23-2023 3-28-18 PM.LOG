@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMU_RX_MCU Pin=P1-40
+Removed Pin From Net: NetName=IMU_TX_MCU Pin=P1-41
+Change Component Designator: OldDesignator=V_ENC NewDesignator=ENC_VDD
+Added Pin To Net: NetName=IMU_TX_MCU Pin=P1-40
+Added Pin To Net: NetName=IMU_RX_MCU Pin=P1-41
+Added Room: Name=Sheet1

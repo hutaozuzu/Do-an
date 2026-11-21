@@ -1,0 +1,150 @@
+Removed Member From Class: ClassName=Sheet1 Member=C?
+Removed Member From Class: ClassName=Sheet1 Member=IC?
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Removed Member From Class: ClassName=Sheet1 Member=JP?
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Removed Member From Class: ClassName=Sheet1 Member=SD?
+Change Component Comment : Designator=GPIO_IN? Old Comment=JP5 New Comment=GPIO_IN
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=GPIO_IN? NewDesignator=JP12
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP11
+Change Component Designator: OldDesignator=JP? NewDesignator=JP13
+Change Component Designator: OldDesignator=JP? NewDesignator=JP14
+Change Component Designator: OldDesignator=JP? NewDesignator=JP15
+Change Component Designator: OldDesignator=JP? NewDesignator=JP16
+Change Component Designator: OldDesignator=JP? NewDesignator=JP17
+Change Component Designator: OldDesignator=JP? NewDesignator=JP18
+Change Component Designator: OldDesignator=JP? NewDesignator=JP19
+Change Component Designator: OldDesignator=JP? NewDesignator=JP20
+Change Component Designator: OldDesignator=JP? NewDesignator=JP21
+Change Component Designator: OldDesignator=JP? NewDesignator=JP22
+Change Component Designator: OldDesignator=JP? NewDesignator=JP23
+Change Component Designator: OldDesignator=JP? NewDesignator=JP24
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=SD? NewDesignator=SD1
+Change Component Designator: OldDesignator=SD? NewDesignator=SD2
+Change Component Designator: OldDesignator=SD? NewDesignator=SD3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Change Component Designator: OldDesignator=VR? NewDesignator=VR2
+Change Component Designator: OldDesignator=VR? NewDesignator=VR3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU1_1
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU1_6
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=JP14-1
+Added Pin To Net: NetName=NetC10_1 Pin=L1-2
+Added Pin To Net: NetName=NetC10_1 Pin=VR3-4
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-2
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R5-2
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C2 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C3 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C4 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C5 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C6 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C7 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C8 approved sub OK
+Added Member To Class: ClassName=Sheet1 Member=Component C9 330uF/35V 
+Added Member To Class: ClassName=Sheet1 Member=Component C10 1000uF/10V
+Added Member To Class: ClassName=Sheet1 Member=Component C11 10uF/16V 
+Added Member To Class: ClassName=Sheet1 Member=Component C12 10uF/16V 
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 24C08B/16B_8Lead
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 SN65HVD1050D
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 SN65HVD1050D
+Added Member To Class: ClassName=Sheet1 Member=Component J1 SW
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Jumper 2
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Jumper 2
+Added Member To Class: ClassName=Sheet2 Member=Component J? JP 2-1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP2
+Added Member To Class: ClassName=Sheet1 Member=Component JP2
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 Front-Motor
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 Left-Motor
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP6 Right-Motor
+Added Member To Class: ClassName=Sheet1 Member=Component JP7 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP8 JP2
+Added Member To Class: ClassName=Sheet1 Member=Component JP9 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP11 GPIO_OUT
+Added Member To Class: ClassName=Sheet1 Member=Component JP13 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP14 connector
+Added Member To Class: ClassName=Sheet1 Member=Component JP15 RF
+Added Member To Class: ClassName=Sheet1 Member=Component JP16 IMU
+Added Member To Class: ClassName=Sheet1 Member=Component JP17 GPS
+Added Member To Class: ClassName=Sheet1 Member=Component JP18 RF_RTK
+Added Member To Class: ClassName=Sheet1 Member=Component JP19 7-24V INPUT
+Added Member To Class: ClassName=Sheet1 Member=Component JP20 connector
+Added Member To Class: ClassName=Sheet1 Member=Component JP21 RF_PC
+Added Member To Class: ClassName=Sheet1 Member=Component JP22 IMU_PC
+Added Member To Class: ClassName=Sheet1 Member=Component JP23 GPS_PC
+Added Member To Class: ClassName=Sheet1 Member=Component JP24 connector
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component P1 STMF4_1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component SD1 Select-IMU
+Added Member To Class: ClassName=Sheet1 Member=Component SD2 Select-RF
+Added Member To Class: ClassName=Sheet1 Member=Component SD3 Select-GPS
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM358D
+Added Member To Class: ClassName=Sheet1 Member=Component U3 74HC245D
+Added Member To Class: ClassName=Sheet1 Member=Component U4 74HC245D
+Added Member To Class: ClassName=Sheet1 Member=Component U5 74HC245D
+Added Member To Class: ClassName=Sheet1 Member=Component U6 LM1117-3.3V
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component VR3 LM2596S-5.0

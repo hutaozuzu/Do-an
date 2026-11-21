@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IMU_TX Pin=SW_IMU-5
+Removed Pin From Net: NetName=IMU_RX Pin=SW_IMU-6
+Removed Pin From Net: NetName=IMU_TX Pin=SW_IMU-7
+Removed Pin From Net: NetName=IMU_RX Pin=SW_IMU-8
+Added Pin To Net: NetName=IMU_RX Pin=SW_IMU-5
+Added Pin To Net: NetName=IMU_TX Pin=SW_IMU-6
+Added Pin To Net: NetName=IMU_RX Pin=SW_IMU-7
+Added Pin To Net: NetName=IMU_TX Pin=SW_IMU-8
+Added Room: Name=Sheet1

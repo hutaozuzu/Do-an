@@ -1,0 +1,13 @@
+Added Component: Designator=D1(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=VIN Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=5V_OUT Pin=D2-K
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode  1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode  Schottky 1N5819
+Added Room: Name=Sheet1

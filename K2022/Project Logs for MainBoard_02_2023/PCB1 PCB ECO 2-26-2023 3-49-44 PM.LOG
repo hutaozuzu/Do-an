@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=CAN1_TX Pin=IC3-1
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=3V3 Pin=IC3-3
+Removed Pin From Net: NetName=CAN1_RX Pin=IC3-4
+Removed Pin From Net: NetName=GND Pin=IC3-8
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=IC3
+Removed Member From Class: ClassName=Sheet1 Member=JP8
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Added Room: Name=Sheet1

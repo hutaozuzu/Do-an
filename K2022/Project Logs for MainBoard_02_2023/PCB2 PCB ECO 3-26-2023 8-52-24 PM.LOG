@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PWM1 Pin=PWM_1-1
+Removed Pin From Net: NetName=PWM1_DIR- Pin=PWM_1-2
+Removed Pin From Net: NetName=PWM1_DIR+ Pin=PWM_1-3
+Removed Pin From Net: NetName=GND Pin=PWM_1-4
+Removed Pin From Net: NetName=PWM2 Pin=PWM_2-1
+Removed Pin From Net: NetName=PWM2_DIR- Pin=PWM_2-2
+Removed Pin From Net: NetName=PWM2_DIR+ Pin=PWM_2-3
+Removed Pin From Net: NetName=GND Pin=PWM_2-4
+Removed Pin From Net: NetName=PWM0 Pin=SERVO-1
+Removed Pin From Net: NetName=PWM0_DIR- Pin=SERVO-2
+Removed Pin From Net: NetName=PWM0_DIR+ Pin=SERVO-3
+Removed Pin From Net: NetName=GND Pin=SERVO-4
+Added Pin To Net: NetName=GND Pin=PWM_1-1
+Added Pin To Net: NetName=PWM1_DIR+ Pin=PWM_1-2
+Added Pin To Net: NetName=PWM1_DIR- Pin=PWM_1-3
+Added Pin To Net: NetName=PWM1 Pin=PWM_1-4
+Added Pin To Net: NetName=GND Pin=PWM_2-1
+Added Pin To Net: NetName=PWM2_DIR+ Pin=PWM_2-2
+Added Pin To Net: NetName=PWM2_DIR- Pin=PWM_2-3
+Added Pin To Net: NetName=PWM2 Pin=PWM_2-4
+Added Pin To Net: NetName=GND Pin=SERVO-1
+Added Pin To Net: NetName=PWM0_DIR+ Pin=SERVO-2
+Added Pin To Net: NetName=PWM0_DIR- Pin=SERVO-3
+Added Pin To Net: NetName=PWM0 Pin=SERVO-4
+Added Member To Class: ClassName=Sheet1 Member=Component C7 approved sub OK
+Added Room: Name=Sheet1

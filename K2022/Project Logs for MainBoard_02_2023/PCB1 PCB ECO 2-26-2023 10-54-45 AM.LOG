@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP14 Old Footprint=CON2 New Footprint=JP2
+Change Component Footprint: Designator=JP24 Old Footprint=CON2 New Footprint=JP2
+Added Room: Name=Sheet1

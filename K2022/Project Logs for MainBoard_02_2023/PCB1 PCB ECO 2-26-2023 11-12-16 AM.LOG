@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=JP7 NewDesignator=SERVO
+Change Component Designator: OldDesignator=JP9 NewDesignator=Front-Motor
+Change Component Designator: OldDesignator=JP10 NewDesignator=Left-Motor
+Change Component Designator: OldDesignator=JP13 NewDesignator=Right-Motor
+Added Room: Name=Sheet1

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=5V NewDesignator=5V_OUT
+Change Component Designator: OldDesignator=JP20 NewDesignator=5V_IN
+Added Room: Name=Sheet1

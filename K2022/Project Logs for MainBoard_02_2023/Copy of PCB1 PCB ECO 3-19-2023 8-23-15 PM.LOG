@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IMU_RX_MCU Pin=SW_IMU-1
+Removed Pin From Net: NetName=IMU_TX_MCU Pin=SW_IMU-2
+Removed Pin From Net: NetName=IMU_RX_PC Pin=SW_IMU-3
+Removed Pin From Net: NetName=IMU_TX_PC Pin=SW_IMU-4
+Removed Pin From Net: NetName=PC11 Pin=SW_RF-1
+Removed Pin From Net: NetName=PC10 Pin=SW_RF-2
+Removed Pin From Net: NetName=RF_RX_PC Pin=SW_RF-3
+Removed Pin From Net: NetName=RF_TX_PC Pin=SW_RF-4
+Added Pin To Net: NetName=IMU_RX_PC Pin=SW_IMU-1
+Added Pin To Net: NetName=IMU_TX_PC Pin=SW_IMU-2
+Added Pin To Net: NetName=IMU_RX_MCU Pin=SW_IMU-3
+Added Pin To Net: NetName=IMU_TX_MCU Pin=SW_IMU-4
+Added Pin To Net: NetName=RF_RX_PC Pin=SW_RF-1
+Added Pin To Net: NetName=RF_TX_PC Pin=SW_RF-2
+Added Pin To Net: NetName=PC11 Pin=SW_RF-3
+Added Pin To Net: NetName=PC10 Pin=SW_RF-4
+Added Room: Name=Sheet1

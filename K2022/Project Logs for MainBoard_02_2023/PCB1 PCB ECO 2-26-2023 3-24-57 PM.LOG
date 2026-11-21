@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=ENC_3V3_5V
+Change Component Designator: OldDesignator=JP5 NewDesignator=ADC
+Change Component Designator: OldDesignator=VR1 NewDesignator=ADC0_Gain
+Change Component Designator: OldDesignator=VR2 NewDesignator=ADC1_Gain
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetADC0_Gain_3
+Change Net Name : Old Net Name=NetU1_6 New Net Name=NetADC1_Gain_1
+Added Member To Class: ClassName=Sheet1 Member=Component R_TERM Jumper 2
+Added Room: Name=Sheet1
