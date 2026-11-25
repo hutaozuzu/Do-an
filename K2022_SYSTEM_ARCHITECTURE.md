@@ -77,7 +77,9 @@ flowchart TB
         M3 -.- E3
     end
 
-    PC <-->|"USB-UART (Micro-ROS)<br/>Gửi: v_ref, ω_ref<br/>Nhận: odom"| MCU
+    PC -->|"USB-UART (Micro-ROS)<br/>Gửi: v_ref, ω_ref<br/>Nhận: odom"| MCU
+    PC <--|"USB-UART (Micro-ROS)<br/>nhận: odom"| MCU
+
     MCU -->|"PWM_1 + DIR+/DIR-"| DRV1
     MCU -->|"PWM_2 + DIR+/DIR-"| DRV2
     MCU -->|"PWM_3 + DIR+/DIR-"| DRV3
