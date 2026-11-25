@@ -52,7 +52,7 @@ flowchart LR
         LAP["Laptop RTX 3050 (ROS 2 Humble Master)<br/>1. YOLOv8 TensorRT (từ ảnh nén JPEG)<br/>2. Multi-Res CSM + GTSAM iSAM2 (Slip-State FGO)<br/>3. Bản đồ 1600x1600 + WFD explore_lite_node<br/>4. Điều khiển Ackermann (A-GMPC / MPPI) bù trượt S_k"]
     end
 
-    PI <==>|"Wi-Fi 5GHz (Dedicated Router / Hotspot)<br/>Gửi: Deskewed Scan + Compressed Image + Synced Odom<br/>Nhận: /cmd_vel (v_ref, ω_ref) + Heartbeat"| LAP
+    PI <==>|"Wi-Fi 5GHz (Dedicated Router)<br/>Gửi: Deskewed Scan + JPEG + Odom<br/>Nhận: /cmd_vel + Heartbeat"| LAP
 
     classDef kept fill:#d1fae5,stroke:#059669,stroke-width:2px,color:#064e3b;
     classDef edge fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#78350f;

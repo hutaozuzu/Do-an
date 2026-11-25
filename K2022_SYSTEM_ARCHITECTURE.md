@@ -77,7 +77,7 @@ flowchart TB
         M3 -.- E3
     end
 
-    PC <-->|"USB-UART (Micro-ROS)<br/>Gửi (v_ref, ω_ref) / Nhận (odom, joint_states)"| MCU
+    PC <-->|"USB-UART (Micro-ROS)<br/>Gửi: v_ref, ω_ref<br/>Nhận: odom, joint_states"| MCU
     MCU -->|"PWM_1 + DIR+/DIR-"| DRV1
     MCU -->|"PWM_2 + DIR+/DIR-"| DRV2
     MCU -->|"PWM_3 + DIR+/DIR-"| DRV3
@@ -285,7 +285,7 @@ flowchart LR
     S_LIDAR -.->|"Phát hiện vật cản mới"| BEZIER
     
     BEZIER -->|"Quỹ đạo tham chiếu"| AGMPC
-    EKF_ODOM -->|"Odometry liên tục (/odometry/filtered)"| AGMPC
+    EKF_ODOM -->|"Odometry liên tục<br/>(/odometry/filtered)"| AGMPC
     AGMPC -->|"u_cmd = [v_ref, ω_ref]"| UROS
 ```
 
