@@ -30,7 +30,7 @@ Sơ đồ dưới đây phân tách rõ **những gì đang có trên xe (màu x
 
 ```mermaid
 flowchart TB
-    subgraph LOST_HIGH ["TẦNG XỬ LÝ CẤP CAO & CẢM BIẾN (ĐÃ MẤT / THÁO RỜI)"]
+    subgraph LOST_HIGH ["TẦNG XỬ LÝ CẤP CAO & CẢM BIẾN ( THÁO RỜI)"]
         direction TB
         MON["Monitoring PC<br/>(ROS 2 Humble)"]
         PC["Onboard Central PC<br/>(ROS 2 Humble:<br/>FAST-LIO2 / FAST-LIVO2, Dual EKF,<br/>ICP, Improved A* + Bezier, A-GMPC)"]
@@ -44,7 +44,7 @@ flowchart TB
         PC <-->|"DDS Wireless"| MON
     end
 
-    subgraph LOST_LOW ["TẦNG ĐIỀU KHIỂN CẤP THẤP (ĐÃ MẤT / THÁO RỜI)"]
+    subgraph LOST_LOW ["TẦNG ĐIỀU KHIỂN CẤP THẤP ( THÁO RỜI)"]
         direction TB
         MCU["STM32F4 Discovery + Custom PCB<br/>(Micro-ROS Client + TIM8 10ms<br/>PID Vị trí lái + 2x PID Vận tốc)"]
     end
